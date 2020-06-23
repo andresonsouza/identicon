@@ -1,18 +1,9 @@
 defmodule Identicon do
-  @moduledoc """
-  Documentation for `Identicon`.
-  """
+  def main(input) do
 
-  @doc """
-  Hello world.
+  end
 
-  ## Examples
+  def hash_input(input) do
 
-      iex> Identicon.hello()
-      :world
-
-  """
-  def hello do
-    :world
   end
 end
